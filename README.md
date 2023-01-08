@@ -12,6 +12,7 @@ Simple Neural Network in java
 > double[][] expectedOutputs = {{1}, {0}, {0}, {1}};
 
 Predicted output:
+
 [0.9830961745204941]
 
 [0.02090100263849155]
